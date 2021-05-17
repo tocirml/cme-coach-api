@@ -1,6 +1,6 @@
 # CME Coach API
 
-##Description
+## Description
 
 Code test for a company. The idea is to basically simulate the data being displayed on www.boardvitals.com/cme on the CME Coach section.
 The API endpoint will receive 2 parameters: State and Specialty. And will return data for the 2 sections inside Recommendations and Licenses.
