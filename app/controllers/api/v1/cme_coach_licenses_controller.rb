@@ -19,11 +19,8 @@ module Api
 
       private
 
-      def options
-        @options ||= { include: %i[license_requirements] }
-      end
-
       def valid_parameters?(_state, _specialty)
+        #ideally we would also valid here if both params have also valid data
         params[:specialty].nil? || params[:state].nil?
       end
     end
