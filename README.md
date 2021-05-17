@@ -9,7 +9,7 @@ Seed were only added for a couple of test scenarios. They can be check on db/see
 For 'Addiction Medicine' and 'Alabama' combo, and 'Anesthesiology' and 'Alaska' combo.
 Only those 2 specialties wll receive data,
 
-##Instalation
+## Instalation
 
 - Ruby version
   6.1
