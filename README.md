@@ -44,6 +44,10 @@ rails s
 
 The API should run on http://localhost:3001
 
+## Demo
+
+You can see a demo of this implementation running on https://cme-coach-api.herokuapp.com/api/v1/cmecoach
+
 ## The Solution
 
 All assumptions were made based on the CME Coach section in www.boardvitals.com/cme.
