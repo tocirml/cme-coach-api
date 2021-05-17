@@ -12,6 +12,8 @@ Only those 2 specialties wll receive data,
 ## Instalation
 
 - Ruby version
+  3.0
+- Rails version
   6.1
 
 - Deployment instructions
